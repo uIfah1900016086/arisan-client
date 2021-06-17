@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/arisan-client/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/arisan-client/static/js/main.f7cdee3c.chunk.js",
-    "main.js.map": "/arisan-client/static/js/main.f7cdee3c.chunk.js.map",
+    "main.js": "/arisan-client/static/js/main.021741b7.chunk.js",
+    "main.js.map": "/arisan-client/static/js/main.021741b7.chunk.js.map",
     "runtime-main.js": "/arisan-client/static/js/runtime-main.fa070f01.js",
     "runtime-main.js.map": "/arisan-client/static/js/runtime-main.fa070f01.js.map",
     "static/css/2.01ca705e.chunk.css": "/arisan-client/static/css/2.01ca705e.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.01ca705e.chunk.css",
     "static/js/2.517043f8.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.f7cdee3c.chunk.js"
+    "static/js/main.021741b7.chunk.js"
   ]
 }
