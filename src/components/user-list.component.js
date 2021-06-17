@@ -32,7 +32,7 @@ export default class UserList extends Component {
 
   componentDidMount() {
     axios
-      .get("http://localhost:5000/users/")
+      .get("https://api-arisan.herokuapp.com/users/")
       .then((response) => {
         this.setState({ users: response.data });
       })
@@ -42,7 +42,7 @@ export default class UserList extends Component {
   }
 
   deleteUser(id) {
-    axios.delete("http://localhost:5000/users/" + id).then((response) => {
+    axios.delete("https://api-arisan.herokuapp.com/users/" + id).then((response) => {
       console.log(response.data);
     });
 

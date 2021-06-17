@@ -20,7 +20,7 @@ export default class EditExercise extends Component {
 
   componentDidMount() {
     axios
-      .get("http://localhost:5000/exercises/" + this.props.match.params.id)
+      .get("https://api-arisan.herokuapp.com/exercises/" + this.props.match.params.id)
       .then((response) => {
         this.setState({
           username: response.data.username,
@@ -32,7 +32,7 @@ export default class EditExercise extends Component {
       });
 
     axios
-      .get("http://localhost:5000/users/")
+      .get("https://api-arisan.herokuapp.com/users/")
       .then((response) => {
         if (response.data.length > 0) {
           this.setState({
@@ -69,7 +69,7 @@ export default class EditExercise extends Component {
 
     axios
       .post(
-        "http://localhost:5000/exercises/update/" + this.props.match.params.id,
+        "https://api-arisan.herokuapp.com/exercises/update/" + this.props.match.params.id,
         exercise
       )
       .then((res) => console.log(res.data));
@@ -80,7 +80,7 @@ export default class EditExercise extends Component {
   render() {
     return (
       <div>
-        <h3>Ubah Catatan Latihan </h3>
+        <h3>Ubah Data Arisan </h3>
         <form onSubmit={this.onSubmit}>
           <div className="form-group">
             <label>Nama Pengguna: </label>
