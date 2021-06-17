@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/static/js/main.8db6caf3.chunk.js",
-    "main.js.map": "/static/js/main.8db6caf3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b64cd8f1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b64cd8f1.js.map",
-    "static/css/2.01ca705e.chunk.css": "/static/css/2.01ca705e.chunk.css",
-    "static/js/2.12e46da8.chunk.js": "/static/js/2.12e46da8.chunk.js",
-    "static/js/2.12e46da8.chunk.js.map": "/static/js/2.12e46da8.chunk.js.map",
-    "static/js/3.ca12031d.chunk.js": "/static/js/3.ca12031d.chunk.js",
-    "static/js/3.ca12031d.chunk.js.map": "/static/js/3.ca12031d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.01ca705e.chunk.css.map": "/static/css/2.01ca705e.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.12e46da8.chunk.js.LICENSE.txt": "/static/js/2.12e46da8.chunk.js.LICENSE.txt"
+    "main.css": "/arisan-client/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/arisan-client/static/js/main.5199b4de.chunk.js",
+    "main.js.map": "/arisan-client/static/js/main.5199b4de.chunk.js.map",
+    "runtime-main.js": "/arisan-client/static/js/runtime-main.fa070f01.js",
+    "runtime-main.js.map": "/arisan-client/static/js/runtime-main.fa070f01.js.map",
+    "static/css/2.01ca705e.chunk.css": "/arisan-client/static/css/2.01ca705e.chunk.css",
+    "static/js/2.517043f8.chunk.js": "/arisan-client/static/js/2.517043f8.chunk.js",
+    "static/js/2.517043f8.chunk.js.map": "/arisan-client/static/js/2.517043f8.chunk.js.map",
+    "static/js/3.f32ce74d.chunk.js": "/arisan-client/static/js/3.f32ce74d.chunk.js",
+    "static/js/3.f32ce74d.chunk.js.map": "/arisan-client/static/js/3.f32ce74d.chunk.js.map",
+    "index.html": "/arisan-client/index.html",
+    "static/css/2.01ca705e.chunk.css.map": "/arisan-client/static/css/2.01ca705e.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/arisan-client/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.517043f8.chunk.js.LICENSE.txt": "/arisan-client/static/js/2.517043f8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b64cd8f1.js",
+    "static/js/runtime-main.fa070f01.js",
     "static/css/2.01ca705e.chunk.css",
-    "static/js/2.12e46da8.chunk.js",
+    "static/js/2.517043f8.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.8db6caf3.chunk.js"
+    "static/js/main.5199b4de.chunk.js"
   ]
 }
